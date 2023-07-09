@@ -1,4 +1,7 @@
-﻿import matplotlib.image as mpimag
+"""
+découpe l'image en bloc de 8 pixel
+"""
+import matplotlib.image as mpimag
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
