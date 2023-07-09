@@ -1,4 +1,8 @@
-﻿import matplotlib.image as mpimag
+"""
+tranforme le code couleur rgb de l'image en code couleur YCbCr
+"""
+
+import matplotlib.image as mpimag
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
